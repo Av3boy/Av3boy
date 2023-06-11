@@ -9,7 +9,7 @@
 
 # 👋 Greetings, friend!
 
-My name is Antti Veikkolainen. I'm a Software Engineer 👨‍💻 working at [Recast Software](https://www.recastsoftware.com/).
+My name is Antti Veikkolainen. I'm a Full-Stack Software Engineer 👨‍💻 working at [Recast Software](https://www.recastsoftware.com/).
 
 ## What I do?
 
