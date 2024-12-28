@@ -14,11 +14,9 @@ My name is Antti Veikkolainen. I'm a Full-Stack Software Engineer 👨‍💻 wo
 ## What I do?
 
 - Work
-- Study Computer Science at the polytechnical of Jyväskylä.
 - Programming
 
 ## My most frequently used languges are the following:
-
 [![](https://img.shields.io/badge/Code-C%23-512BD4?style=flat&logo=%2ENET)](https://github.com/Av3boy?tab=repositories&q=&type=&language=c%23)
 [![](https://img.shields.io/badge/Code-C++-00599C?style=flat&logo=c%2B%2B)](https://github.com/Av3boy?tab=repositories&q=&type=&language=c%2B%2B)
 [![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python)](https://github.com/Av3boy?tab=repositories&q=&type=&language=python)
@@ -28,7 +26,7 @@ My name is Antti Veikkolainen. I'm a Full-Stack Software Engineer 👨‍💻 wo
 Read more about my programming at [Grepper](https://www.codegrepper.com/profile/antti-veikkolainen)
 
 About programming and challenges I solve, you can read at my [blog here](https://av3boy.github.io/Av3boy/)!
-
+<!--
 ## Some of my most important or interesting blogs:  
 -
 -
@@ -44,8 +42,6 @@ About programming and challenges I solve, you can read at my [blog here](https:/
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
-
+-->
 You can find me here as well!
-[LinkedIn]()
-[GitLab]()
-[Instagram]()
+[LinkedIn](https://www.linkedin.com/in/anttiveikkolainen/)
